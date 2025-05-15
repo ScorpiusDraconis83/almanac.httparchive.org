@@ -4081,6 +4081,9 @@
       ],
       "2022": [
         "translators"
+      ],
+      "2024": [
+        "translators"
       ]
     },
     "twitter": "beltway7",
@@ -4207,6 +4210,21 @@
     },
     "twitter": "Scott_Helme",
     "website": "https://scotthelme.co.uk"
+  },
+  "krlslman": {
+    "avatar_url": "68502548",
+    "github": "krlslman",
+    "name": "Selman Koral",
+    "teams": {
+      "2024": [
+        "developers",
+        "translators"
+      ],
+      "2025": [
+        "developers",
+        "translators"
+      ]
+    }
   },
   "sergeychernyshev": {
     "avatar_url": "38076",
