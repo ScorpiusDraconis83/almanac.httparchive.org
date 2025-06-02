@@ -1,8 +1,8 @@
 {
   "/static/css/almanac.css": {
     "date_published": "2020-11-13T00:00:00.000Z",
-    "date_modified": "2025-02-04T00:00:00.000Z",
-    "hash": "222e067b0135e75f99da5f73590dcdce"
+    "date_modified": "2025-05-06T00:00:00.000Z",
+    "hash": "3e683470db11c9cfc37b975f60c33908"
   },
   "/static/css/ebook.css": {
     "date_published": "2020-05-15T00:00:00.000Z",
@@ -21,8 +21,8 @@
   },
   "/static/css/page.css": {
     "date_published": "2020-11-13T00:00:00.000Z",
-    "date_modified": "2025-02-04T00:00:00.000Z",
-    "hash": "f237479c0631daba0de02c3f2222a640"
+    "date_modified": "2025-05-06T00:00:00.000Z",
+    "hash": "4462fb5fe4a290322543fd077bdd6d67"
   },
   "/static/css/splash.css": {
     "date_published": "2020-11-13T00:00:00.000Z",
@@ -36,13 +36,13 @@
   },
   "/static/js/send-web-vitals.js": {
     "date_published": "2021-02-24T00:00:00.000Z",
-    "date_modified": "2025-03-03T00:00:00.000Z",
-    "hash": "626d029c7107a8fe569a02a06b2f5894"
+    "date_modified": "2025-05-15T00:00:00.000Z",
+    "hash": "67574c23a511f3149c90c88735c5a6f3"
   },
   "/static/js/web-vitals.js": {
     "date_published": "2020-11-13T00:00:00.000Z",
-    "date_modified": "2024-11-11T00:00:00.000Z",
-    "hash": "f6f30f40e7d014a2d38f1362c5eb6244"
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "3caa49b0c397fb363e48ea629e291466"
   },
   "/static/js/webmentions.js": {
     "date_published": "2021-12-01T00:00:00.000Z",
@@ -51,155 +51,155 @@
   },
   "/static/pdfs/web_almanac_2019_en.pdf": {
     "date_published": "2020-05-15T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "d30c03c88371a202fa638660c3ef45e0",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "1ab6c46fd38374bd3c26a069943dbad8",
     "size": 12
   },
   "/static/pdfs/web_almanac_2019_en_cover_A5.pdf": {
     "date_published": "2020-05-15T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "db2efe5ad20501483d7cdb397b7c2573"
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "5d3a729c870bddd84a7b14de8872ec5c"
   },
   "/static/pdfs/web_almanac_2019_en_print_A5.pdf": {
     "date_published": "2020-05-15T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "b8a53df0550eaab140e028ed8783da6a",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "9cc7571afd9dc88f450cb0b47545c628",
     "size": 11
   },
   "/static/pdfs/web_almanac_2019_ja.pdf": {
     "date_published": "2020-05-15T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "5ac0b377f4fe19087b7946d15e404c31",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "ca62346bc847ecc4aa9c3b4551705eee",
     "size": 12
   },
   "/static/pdfs/web_almanac_2019_ja_cover_A5.pdf": {
     "date_published": "2020-05-15T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "3b274ef7a75234e5fa7d66e2085cef88"
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "aeb650d7c193ee349cae7aaeb0598a27"
   },
   "/static/pdfs/web_almanac_2019_ja_print_A5.pdf": {
     "date_published": "2020-05-15T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "7b7ad8f8dcfd9767920ec9cfddcaaf5a",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "b305a79b658de04933ed78594f22b69b",
     "size": 12
   },
   "/static/pdfs/web_almanac_2020_en.pdf": {
     "date_published": "2020-12-08T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "595594197edd36c9a149fc14ea49cb14",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "52c3d739ef68161e511244f2ab8e67e1",
     "size": 17
   },
   "/static/pdfs/web_almanac_2020_en_cover_A5.pdf": {
     "date_published": "2020-12-09T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "64f16ed1ca04bf814017a000893e4d1f"
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "94cbd0449a5b22215a80f16047ef57c2"
   },
   "/static/pdfs/web_almanac_2020_en_print_A5.pdf": {
     "date_published": "2020-12-09T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "38a735ce0b5608db4b0ab7a7738f6c01",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "b1d1ffaba2a219e07c8bbd5ee4431e55",
     "size": 17
   },
   "/static/pdfs/web_almanac_2020_ja.pdf": {
     "date_published": "2021-10-24T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "97b3a42b402d931f33197ae674c8ba4c",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "eeef54a79dcf25e7c0e706550ec76075",
     "size": 17
   },
   "/static/pdfs/web_almanac_2020_ja_cover_A5.pdf": {
     "date_published": "2021-10-24T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "808d289c2dfa9984aec1c4ba03f9527c"
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "e12277159d886439bfacff97ab4e62c3"
   },
   "/static/pdfs/web_almanac_2020_ja_print_A5.pdf": {
     "date_published": "2021-10-24T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "e6cf0b9358b8f9b41abc6b05d5c62956",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "b774019e24fae96585187e05dc396061",
     "size": 17
   },
   "/static/pdfs/web_almanac_2021_en.pdf": {
     "date_published": "2021-12-01T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "4bdd775b794271b7b828ce5762d45604",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "d16da055f67c87106c1d8d8ef04b4f42",
     "size": 22
   },
   "/static/pdfs/web_almanac_2021_en_cover_A5.pdf": {
     "date_published": "2021-12-01T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "3e5ece679192884f765b750ca3cb0e91"
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "6fffd34ce6178c361b3bec5b71fee599"
   },
   "/static/pdfs/web_almanac_2021_en_print_A5.pdf": {
     "date_published": "2021-12-01T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "462c0b39c171ae701f7a6a48cf0ee046",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "1a3f425b42797d1871eabca81a16bb6e",
     "size": 22
   },
   "/static/pdfs/web_almanac_2021_ja.pdf": {
     "date_published": "22-08-01T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "fbc40c503f20e7beb94de5d10bdd9d2b",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "d6f91dc59d079d4878cc794e5b50de41",
     "size": 23
   },
   "/static/pdfs/web_almanac_2021_ja_cover_A5.pdf": {
     "date_published": "22-08-01T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "866848c09fb12fc9abcebb2d66fb4e60"
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "25627a70ad9c534a7e9cf21d7d4220fa"
   },
   "/static/pdfs/web_almanac_2021_ja_print_A5.pdf": {
     "date_published": "22-08-01T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "77693573a2b9792fa8e0066d6aad6471",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "994862fab6c79eca791da49371137cde",
     "size": 22
   },
   "/static/pdfs/web_almanac_2022_en.pdf": {
     "date_published": "2022-10-19T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "d722965bec217bf0406dc6e65388ad07",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "73be505ae09a9047a49de31c006df8e9",
     "size": 23
   },
   "/static/pdfs/web_almanac_2022_en_cover_A5.pdf": {
     "date_published": "2022-10-19T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "0d074da6ef37b68ab7fb572830d3f547"
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "c040b86da7250c438e3a58eca9bba51c"
   },
   "/static/pdfs/web_almanac_2022_en_print_A5.pdf": {
     "date_published": "2022-10-19T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "278085cb4dbc638998b19fe449968784",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "0a8e21ec11d37400f7d8ae6f30bdc03e",
     "size": 22
   },
   "/static/pdfs/web_almanac_2022_ja.pdf": {
     "date_published": "2024-09-26T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "c87d56e9fac849663c8c4dab8eaaa8a8",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "eac85f6f36826566deb48b9941767e9e",
     "size": 23
   },
   "/static/pdfs/web_almanac_2022_ja_cover_A5.pdf": {
     "date_published": "2024-09-26T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "c5649f92c26f987188ecc1b6f11fe50b"
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "32717254c02049a8c1f7ed1c1bda7518"
   },
   "/static/pdfs/web_almanac_2022_ja_print_A5.pdf": {
     "date_published": "2024-09-26T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "918e5244bbfff1f451cdd797f03396c2",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "2ff35118c6bce8744e1c3dfea11fef5d",
     "size": 23
   },
   "/static/pdfs/web_almanac_2024_en.pdf": {
     "date_published": "2025-03-03T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "0273e8a6fb78b9d85d81c630c74ba6ee",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "869130e7ba9527b395529b483b48099d",
     "size": 21
   },
   "/static/pdfs/web_almanac_2024_en_cover_A5.pdf": {
     "date_published": "2025-03-03T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "b11f467e1acd0d6ac9f41bcc47bd9af7"
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "312e7b028e18c46767bb26b0216d01c8"
   },
   "/static/pdfs/web_almanac_2024_en_print_A5.pdf": {
     "date_published": "2025-03-03T00:00:00.000Z",
-    "date_modified": "2025-04-07T00:00:00.000Z",
-    "hash": "c5a3bf2ecae089ee1576fb07a019ae3b",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "993aa9e02fbf937478b817c0a4dbbe3d",
     "size": 20
   },
   "en/2019/chapters/accessibility.html": {
@@ -839,8 +839,8 @@
   },
   "en/2024/chapters/seo.html": {
     "date_published": "2024-12-02T00:00:00.000Z",
-    "date_modified": "2024-12-13T00:00:00.000Z",
-    "hash": "82b533de0e2fe157b01b70e60811268a"
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "3e5f511d64a82a0eac0d6484e3552d13"
   },
   "en/2024/chapters/structured-data.html": {
     "date_published": "2024-11-11T00:00:00.000Z",
@@ -876,6 +876,126 @@
     "date_published": "2024-11-11T00:00:00.000Z",
     "date_modified": "2024-11-11T00:00:00.000Z",
     "hash": "21329bd976566f8d3771f03c27afff60"
+  },
+  "en/2025/chapters/accessibility.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "79038a77933b6a73ed01421fcf59bbe6"
+  },
+  "en/2025/chapters/cdn.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "2041822259c77339950ea0aac350e246"
+  },
+  "en/2025/chapters/cms.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "ed02dbc45f6ddfe066e2259697e65e1c"
+  },
+  "en/2025/chapters/cookies.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "6861db77f4e2ed1e7ae13410a209691d"
+  },
+  "en/2025/chapters/css.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "61ddf7cacf96e1b39436afc433bd45f5"
+  },
+  "en/2025/chapters/dns.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "3ea471d803772c3e9ec671a2b5eb6910"
+  },
+  "en/2025/chapters/ecommerce.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "b67d885f5b6700bf066a6d8617946886"
+  },
+  "en/2025/chapters/fonts.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "5f1d12fdfe005bc2638c56e0c90db32d"
+  },
+  "en/2025/chapters/generative-ai.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "baa7aef065e47103344a1c9fbf2a6a39"
+  },
+  "en/2025/chapters/http.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "44fdc527d7d16b322c3cd82b6401bc5f"
+  },
+  "en/2025/chapters/jamstack.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "9a9c029e516a53145db3fc8d6174b557"
+  },
+  "en/2025/chapters/javascript.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "3b31c343394b73f7e13d029c0d6a6122"
+  },
+  "en/2025/chapters/markup.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "4c734c3b6b5bf3069c8e88d2440fb6b2"
+  },
+  "en/2025/chapters/media.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "d51e553f166ed4bef514b93929752c06"
+  },
+  "en/2025/chapters/page-weight.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "2fa1fb01353127a0a4c2af0bccef4fdb"
+  },
+  "en/2025/chapters/performance.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "f4fd7bc99a6c3a19a9ad46f6ef803ee1"
+  },
+  "en/2025/chapters/privacy.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "ee4a3de5dc0e427c322455aadad2e647"
+  },
+  "en/2025/chapters/security.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "7807e387f793ecd7480be70979c4befc"
+  },
+  "en/2025/chapters/seo.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "bda1dfe2fa5a54f966417cedfcd9bd69"
+  },
+  "en/2025/chapters/structured-data.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "dcd29efca225d977bc54a47dac7f3814"
+  },
+  "en/2025/chapters/sustainability.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "300d338ff17b2e6a7ff218ab0c61fcdc"
+  },
+  "en/2025/chapters/textual-content.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "f5402454c2ce15177109ba1063196f20"
+  },
+  "en/2025/chapters/third-parties.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "8a216ad38d4d01ba685d1ea009da4a18"
+  },
+  "en/2025/chapters/webassembly.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "912714acf76c2875e96a689931c522bf"
   },
   "en/accessibility_statement.html": {
     "date_published": "2020-02-03T00:00:00.000Z",
@@ -1957,6 +2077,16 @@
     "date_modified": "2022-07-02T00:00:00.000Z",
     "hash": "4294fa74602b009c401be6b253631fe6"
   },
+  "ja/2024/chapters/accessibility.html": {
+    "date_published": "2025-06-01T00:00:00.000Z",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "9ca97f101f11ac68a64cdf0c1c3164d1"
+  },
+  "ja/2024/chapters/fonts.html": {
+    "date_published": "2025-05-07T00:00:00.000Z",
+    "date_modified": "2025-05-07T00:00:00.000Z",
+    "hash": "a1679e7ff371e47c2c85e4433ae81bad"
+  },
   "ja/2024/chapters/javascript.html": {
     "date_published": "2025-04-07T00:00:00.000Z",
     "date_modified": "2025-04-07T00:00:00.000Z",
@@ -1966,6 +2096,26 @@
     "date_published": "2025-04-07T00:00:00.000Z",
     "date_modified": "2025-04-07T00:00:00.000Z",
     "hash": "50ef7b058c66cd13404afe0d4934e144"
+  },
+  "ja/2024/chapters/media.html": {
+    "date_published": "2025-05-06T00:00:00.000Z",
+    "date_modified": "2025-05-06T00:00:00.000Z",
+    "hash": "9a1aea5fbbf2dc8407e1d2b6f14d9fd8"
+  },
+  "ja/2024/chapters/seo.html": {
+    "date_published": "2025-06-01T00:00:00.000Z",
+    "date_modified": "2025-06-01T00:00:00.000Z",
+    "hash": "af0b64d4b24b11965cdc8dc960e08b98"
+  },
+  "ja/2024/chapters/structured-data.html": {
+    "date_published": "2025-05-06T00:00:00.000Z",
+    "date_modified": "2025-05-06T00:00:00.000Z",
+    "hash": "26e0fe0be6c479a4a605523bf7942226"
+  },
+  "ja/2024/chapters/third-parties.html": {
+    "date_published": "2025-05-07T00:00:00.000Z",
+    "date_modified": "2025-05-07T00:00:00.000Z",
+    "hash": "cd5f31c059358df8a79d7e2d462f2ef1"
   },
   "ja/2024/contributors.html": {
     "date_published": "2024-10-15T00:00:00.000Z",
@@ -2431,6 +2581,11 @@
     "date_published": "2024-10-15T00:00:00.000Z",
     "date_modified": "2024-10-15T00:00:00.000Z",
     "hash": "c5b1ddfb6bbb975c899df82f398346fb"
+  },
+  "ru/2024/methodology.html": {
+    "date_published": "2025-05-28T00:00:00.000Z",
+    "date_modified": "2025-05-28T00:00:00.000Z",
+    "hash": "076737ccec0dcfcd5ebd9fba55efc7c6"
   },
   "ru/2024/table_of_contents.html": {
     "date_published": "2024-10-15T00:00:00.000Z",
